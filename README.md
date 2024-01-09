@@ -1,4 +1,5 @@
-#Automated Scraping and Database Insertion for U.S. Securities Class Action Data
+# Automated Scraping and Database Insertion for U.S. Securities Class Action Data
+
 Objective:
 The purpose of this Python script is to scrape data related to securities class action filings from the Stanford Securities Class Action Clearinghouse website (https://securities.stanford.edu/). The scraped data includes details such as court information, docket number, judge, filing date, class period start and end dates, case status, and page number.
 
